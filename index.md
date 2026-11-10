@@ -14,4 +14,8 @@ pdfstandard: a-4
 
 ## update firmware
 
-`https://iotota.fangyuanmeow.cc.cd/esp32cd/<firmwarename>.bin`
+`https://iotota.fangyuanmeow.cc.cd/<firmwarename>.bin`
+
+## firmware list
+
+- <https://iotota.fangyuanmeow.cc.cd/esp32cd/blink.bin>
