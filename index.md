@@ -18,4 +18,8 @@ pdfstandard: a-4
 
 ## firmware list
 
+<<<<<<< HEAD
 - <https://iotota.fangyuanmeow.cc.cd/esp32cd/blink.bin>
+=======
+- <https://iotota.fangyuanmeow.cc.cd/blink.bin>
+>>>>>>> 97df36f (revision markdown doc)
